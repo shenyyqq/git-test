@@ -14,6 +14,7 @@ public class GitTet {
     public void test() {
         int i = 1;
         i++;
+        System.out.println(i);
     }
     public void tttt() {
         System.out.println("heyjdue");
