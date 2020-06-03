@@ -11,5 +11,6 @@ public class Branch {
         System.out.println("新建了一个分支");
         System.out.println("dev更改提交了");
         System.out.println("dev又更改了");
+        System.out.println("dev想push啊");
     }
 }
