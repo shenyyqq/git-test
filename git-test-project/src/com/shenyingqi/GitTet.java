@@ -14,5 +14,6 @@ public class GitTet {
         System.out.println("hello git");
         System.out.println("修改了git");
         System.out.println("hhhh");
+        System.out.println("再次提交了");
     }
 }
