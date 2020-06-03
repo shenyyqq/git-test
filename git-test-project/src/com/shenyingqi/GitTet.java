@@ -15,4 +15,7 @@ public class GitTet {
         int i = 1;
         i++;
     }
+    public void tttt() {
+        System.out.println("heyjdue");
+    }
 }
