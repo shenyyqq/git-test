@@ -9,5 +9,6 @@ package com.shenyingqi;
 public class MasterC {
     public static void main(String[] args) {
         System.out.println("master创建");
+        System.out.println("merge之后不能提交？");
     }
 }
