@@ -16,4 +16,9 @@ public class GitTet {
         System.out.println("hhhh");
         System.out.println("再次提交了");
     }
+
+    public void test() {
+        int i = 1;
+        i++;
+    }
 }
